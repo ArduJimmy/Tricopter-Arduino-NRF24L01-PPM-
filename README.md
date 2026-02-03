@@ -14,9 +14,14 @@ This is final tricopter project with Arduino Nano 328p, Multiwii 2.3, PPM Transc
 <h2>Transmitter Wiring</h2>
 <p>Please pay attention of the explanation about Transmitter. Actually, I build the transmitter for Double Usage: Multiwii drone (including Tricopter, Quadcopter, etc). That;s why the wiring and the codes will include one SWITCH.</p>
 
+<p>Terjemahan: TOlong perhatikan dengan seksama untuk diagram wiring transmitter ini karena aku membuatnya untuk DUAL TX, Dual TX berarti, transmitter ini bisa digunakan untuk drone Tricopter dan lainnya misal: arduino car, balancingWii /self balancing robot (lihat Channel YT Ardujimmy untuk tutorialnya).</p>
+
 <ul>
   <li>SWITCH ON: Drone / Tricopter</li>
   <li>SWITCH OFF: BalancingWii or Arduino Car, etc.</li>
 </ul>
 
 <img src="https://github.com/ArduJimmy/Tricopter-Arduino-NRF24L01-PPM-/blob/main/Transmitter-Wiring.jpg" title="Tricopter Transmitter" alt="Dual TX Wiring" />
+
+<br />
+<p>Tutorial video dan tes terbang silahkan cek di:</p>
