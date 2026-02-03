@@ -10,3 +10,13 @@ This is final tricopter project with Arduino Nano 328p, Multiwii 2.3, PPM Transc
 <p>Connect pin D2 of Arduino Promini to pin D2 Arduino Nano</p>
 
 <img src="https://github.com/ArduJimmy/Tricopter-Arduino-NRF24L01-PPM-/blob/main/PPM_Receiver_Wiring.jpg" title="PPM Receiver Wiring" alt="PPM Receiver Arduino Project" />
+
+<h2>Transmitter Wiring</h2>
+<p>Please pay attention of the explanation about Transmitter. Actually, I build the transmitter for Double Usage: Multiwii drone (including Tricopter, Quadcopter, etc). That;s why the wiring and the codes will include one SWITCH.</p>
+
+<ul>
+  <li>SWITCH ON: Drone / Tricopter</li>
+  <li>SWITCH OFF: BalancingWii or Arduino Car, etc.</li>
+</ul>
+
+<img src="https://github.com/ArduJimmy/Tricopter-Arduino-NRF24L01-PPM-/blob/main/Transmitter-Wiring.jpg" title="Tricopter Transmitter" alt="Dual TX Wiring" />
