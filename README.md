@@ -24,4 +24,4 @@ This is final tricopter project with Arduino Nano 328p, Multiwii 2.3, PPM Transc
 <img src="https://github.com/ArduJimmy/Tricopter-Arduino-NRF24L01-PPM-/blob/main/Transmitter-Wiring.jpg" title="Tricopter Transmitter" alt="Dual TX Wiring" />
 
 <br />
-<p>Tutorial video dan tes terbang silahkan cek di: https://youtu.be/xNeqxGVomoc</p>
+<p>Tutorial video dan tes terbang silahkan cek di: https://www.youtube.com/watch?v=1LeyG4wXDZA</p>
