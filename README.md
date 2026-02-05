@@ -23,5 +23,9 @@ This is final tricopter project with Arduino Nano 328p, Multiwii 2.3, PPM Transc
 
 <img src="https://github.com/ArduJimmy/Tricopter-Arduino-NRF24L01-PPM-/blob/main/Transmitter-Wiring.jpg" title="Tricopter Transmitter" alt="Dual TX Wiring" />
 
+<h2>MULTIWIICONF GUI</h2>
+<p>Karena kita menggunakan BMP180 maka konfigurasi mutlwiiconf GUI sbb: (note: BMP180 adalah hal <strong>WAJIB</strong> membantu servo menyesuaikan diri melalui modul barometer)</p>
+
+<img src="https://github.com/ArduJimmy/Tricopter-Arduino-NRF24L01-PPM-/blob/main/konfigurasi_multiwiiConf_GUI.PNG" alt="multiwiiconf GUI Tricopter" title="MultiwiiConf GUI pada Tricopter"/>
 <br />
 <p>Tutorial video dan tes terbang silahkan cek di: https://www.youtube.com/watch?v=1LeyG4wXDZA</p>
